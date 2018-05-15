@@ -1,0 +1,51 @@
+body{
+	background-color: white;
+	color: black;
+	font-family: "Georgia", "Palatino", "serif";
+}
+
+.container.fluid{
+	float: center;
+	position: fixed;
+	padding: 10px 10px 10px 10px;
+
+}
+
+.col-lg-8{
+	text-decoration: none;
+	list-style: none;
+	display:inline-table;
+	font-family: "Georgia", "Palatino", "serif";
+	margin:0;
+	background-color: black; 
+	text-align: left;
+	color:#00BFFF; 
+}
+
+
+.col-lg-4{
+	font-family: "Georgia", "Palatino", "serif";
+	margin:0;
+	background-color: black; 
+	text-align: right;
+	color:#00BFFF; 
+}
+.col-lg-11{
+	margin:15px 15px 15px 15px;
+	font-family: "Georgia", "Palatino", "serif";
+}
+
+
+
+.dados{	
+	position:absolute;
+	bottom:0;
+	width:100%;
+	height:60px;
+	padding: 9px 20px 10px 10px; 
+	text-align: right; 
+	background-color: black;
+	
+}
+
+
